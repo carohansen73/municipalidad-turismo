@@ -1,0 +1,56 @@
+/* PROVEEDORES DE SERVICIO */
+#services .main-services {
+    padding: 20px;
+}
+#services .main-services  .single-fashion{
+    background-color: #e67057;
+    padding: 40px;
+    border-radius: 40px;
+}
+
+#services .main-services .single-fashion img{
+    border-radius: 40px;
+}
+
+#services .main-services .single-fashion p,.main-services .single-fashion h1{
+    font-size: 20px;
+    color: #FFF;
+}
+
+#services .main-services .single-fashion h1{
+    font-size: 40px;
+    color: #FFF;
+}
+
+
+.single-fashion .list-prov-container-img{
+    width: 100%;
+    height: 276px;
+}
+
+.single-fashion .list-prov-container-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.list-prov-container-img>img{
+    object-fit: contain;
+}
+
+
+/* .main-services :nth-child(1).single-fashion {
+
+  } */
+
+  #services  .container :nth-child(2) .single-fashion{
+    background-color: #a7ae5d;
+  }
+
+.top-section-area-img{
+    background-color: #e67057;
+}
+
+.single-post-content p .amenities-icon i{
+    color: #69b4fd;
+}
